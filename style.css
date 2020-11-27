@@ -92,6 +92,11 @@
   align-self: center;
 }
 
+.footer a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
 .footer p {
   margin-bottom: var(--space-md);
 
