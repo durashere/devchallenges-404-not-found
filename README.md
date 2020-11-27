@@ -35,9 +35,11 @@
 ## Overview
 
 - 1440px - :computer:
+
   ![screenshot](screenshots/1440px.png)
 
-- 1440px - :iphone:
+- 375px - :iphone:
+
   ![screenshot](screenshots/375px.png)
 
 ### Built With
